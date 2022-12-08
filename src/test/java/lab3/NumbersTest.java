@@ -5,8 +5,11 @@ package lab3;
 
 import static org.junit.Assert.*;
 
+import org.junit.jupiter.api.*;
+
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
+
 
 import org.junit.Test;
 
