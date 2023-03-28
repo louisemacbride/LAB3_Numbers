@@ -10,6 +10,7 @@ public class Numbers {
 		
 		public static void sum(){
 			System.out.println("sum");
+			System.out.println("sum");
 		}
 				
 		
